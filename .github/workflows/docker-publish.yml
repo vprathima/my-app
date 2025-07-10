@@ -2,7 +2,7 @@ name: Build and Push Docker Image
 
 on:
   push:
-    branches: [main]  # main branch ki push chesinappudu run avtundi
+    branches: [main]
 
 jobs:
   build:
